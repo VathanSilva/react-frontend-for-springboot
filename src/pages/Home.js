@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from "react";
 import axios from "axios";
+import React, { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 
 export default function Home() {
@@ -27,7 +27,7 @@ export default function Home() {
         <table className="table border shadow">
           <thead>
             <tr>
-              <th scope="col">S.N</th>
+              <th scope="col">No</th>
               <th scope="col">Name</th>
               <th scope="col">Username</th>
               <th scope="col">Email</th>
