@@ -1,4 +1,4 @@
-# FullStackApp
+# React Frontend for Springboot CRUD API with Docker & Kubernaties
 
 FullStackApp is a web application built with Spring Boot for the backend and React for the frontend. It provides a seamless full-stack development experience for building modern web applications.
 
@@ -30,18 +30,3 @@ Before you begin, ensure you have met the following requirements:
 - Java Development Kit (JDK) installed.
 - Node.js and npm installed.
 - IDE with support for Spring Boot and React development.
-
-## Getting Started
-
-Follow these steps to set up and run the FullStackApp locally:
-
-1. Clone the backend repository:
-
-   ```bash
-   git clone https://github.com/arjungautam1/fullstack-backend.git
-
-1. Clone the Frontend repository:
-
-   ```bash
-    git clone https://github.com/arjungautam1/fullstack-frontend.git
-
